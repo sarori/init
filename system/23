@@ -1,9 +1,2 @@
-graphical : 
-ssh username@ip
-
-
-//고쳐라
-Graphical : When we boot the system, put your login and password when asked
-
-SSH : on our another device, type ssh USER@IP in the terminal, then put password when asked
-© 2019 GitHub, Inc.
+Graphical : When we boot the system and asked, put your login and password.
+SSH : on our another device, type ssh USER@IP in the terminal, then put password when asked.
