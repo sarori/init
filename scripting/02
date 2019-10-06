@@ -1,0 +1,4 @@
+cat /etc/passwd | grep '/home/'
+cat 02
+userdel $user
+cat /etc/passwd | grep '/home/'
